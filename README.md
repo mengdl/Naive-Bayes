@@ -1,2 +1,2 @@
 # Naive-Bayes
-implement a naive bayes algorithm
+Actually, it implements a naive bayes classifier and a KNN classifier.
